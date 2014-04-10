@@ -44,6 +44,9 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_COPY_FILES += \
    $(LOCAL_PATH)/config/fstab.semc:root/fstab.semc
+   
+PRODUCT_COPY_FILES += \
+   $(LOCAL_PATH)/config/extra.fstab:recovery/root/etc/extra.fstab
 
 # Device specific part for two-stage boot
 PRODUCT_COPY_FILES += \
