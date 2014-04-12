@@ -6,7 +6,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-ROM_BUILDTYPE := HOMEMADE-djolivier
+ROM_BUILDTYPE := HOMEMADE-Olivier
 
 $(call inherit-product, device/sony/nozomi/full_nozomi.mk)
 
