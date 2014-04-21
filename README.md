@@ -13,7 +13,7 @@ Memory  | 1GB RAM
 Shipped Android Version | 4.1.2
 Storage | 32GB eMMC
 Battery | 1750 mAh
-Display | 4.3" 1280 x 729 px
+Display | 4.3" 1280 x 720 px
 Camera  | 12.1MPx, LED Flash
 
 ![Sony Xperia S](http://api.sonymobile.com/files/xperia-s-hero-black-1240x840-84a4f0d48a8cbe7cab3d97bcc2fdc195.jpg "Sony Xperia S in black")
