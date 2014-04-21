@@ -10,7 +10,8 @@ Chipset | Qualcomm MSM8260 Snapdragon
 CPU     | 1.5GHz Dual-Core 
 GPU     | Adreno 220
 Memory  | 1GB RAM
-Shipped Android Version | 4.1.2
+Shipped Android Version | 2.3.7 or 4.0.4
+Upgradable Android Version | 4.1.2
 Storage | 32GB eMMC
 Battery | 1750 mAh
 Display | 4.3" 1280 x 720 px
